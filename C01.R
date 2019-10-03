@@ -14,3 +14,4 @@ class(g)
 .Machine$double.xmin
 .Machine$integer.max
 .Machine$double.eps
+.
