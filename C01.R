@@ -4,3 +4,5 @@ b="taipei"
 class(b)
 c=3+2i
 class(c)
+e="50"
+class(e)
