@@ -6,3 +6,11 @@ c=3+2i
 class(c)
 e="50"
 class(e)
+f=1:10
+class(f)
+g=10
+class(g)
+.Machine$double.xmax
+.Machine$double.xmin
+.Machine$integer.max
+.Machine$double.eps
