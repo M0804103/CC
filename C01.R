@@ -1,4 +1,4 @@
-a=3
+a=3L
 class(a)
 b="taipei"
 class(b)
