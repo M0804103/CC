@@ -48,3 +48,5 @@ length(x)
 nchar(y)
 x1=c("h","e","l","l","o")
 length(x1)
+
+AAA
